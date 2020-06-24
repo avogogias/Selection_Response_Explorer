@@ -2,7 +2,7 @@
 # This is a Shiny web application that helps users set
 # the values of three variables: p, varA and h2 using
 # dynamic sliders and see the effect changes have to
-# Selection Response which depends on these variables.
+# Selection Response which depends on those variables.
 #
 # selResp= dnorm(qnorm(1-p))/p*sqrt(h2)*sqrt(varA)
 #
